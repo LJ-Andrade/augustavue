@@ -1,0 +1,19 @@
+{
+    "name": "vimana/laravelmp",
+    "description": "Mercado Pago integration for Laravel",
+    "type": "library",
+    "keywords": ["laravel", "mercadopago", "sdk"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jav",
+            "email": "info@vimanastudio.com.ar"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Vimana\\LaravelMP\\": "src/"
+        }
+    }
+}
